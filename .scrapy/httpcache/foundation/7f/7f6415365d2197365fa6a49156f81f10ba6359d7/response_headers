@@ -1,0 +1,17 @@
+Date: Tue, 15 Oct 2024 20:35:50 GMT
+Content-Type: text/html; charset=utf-8
+Age: 2834
+Cache-Control: public, max-age=0, must-revalidate
+Content-Security-Policy: frame-ancestors 'self';
+Content-Security-Policy-Report-Only: frame-ancestors 'self';
+Strict-Transport-Security: max-age=63072000
+X-Frame-Options: SAMEORIGIN
+X-Matched-Path: /mint/[chain]/[contractAddress]/[tokenId]
+X-Powered-By: Next.js
+X-Vercel-Cache: HIT
+X-Vercel-Id: hnd1::iad1::lggvb-1729024550271-6ea76a4c59a7
+Cf-Cache-Status: DYNAMIC
+Server: cloudflare
+Cf-Ray: 8d32990f19dcd4af-NRT
+Content-Encoding: gzip
+Alt-Svc: h3=":443"; ma=86400
